@@ -14,4 +14,4 @@ public class MyResource {
     }
 }
 
-// http://localhost:8080/hello/webadpi/hello
+// http://localhost:8080/hello/webapi/hello
